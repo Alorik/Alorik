@@ -85,10 +85,19 @@ I'm a Computer Science student at ABES Engineering College with a passion for cr
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alorik&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alorik&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alorik&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alorik&theme=radical" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alorik&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alorik&theme=radical"/>
 </div>
 
 ---
