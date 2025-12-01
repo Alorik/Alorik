@@ -8,8 +8,8 @@ I'm a Computer Science student at ABES Engineering College with a passion for cr
 
 ## 🚀 What I'm Working On
 
-- **Workflow v2.0** - Enhancing my full-stack project management platform with real-time collaboration
-- **KirolaUI** - Building a personal component library with 40+ production-ready React components
+-**Social Media App - A full stack socail media app with real time feaures and extensive UI.
+- **KirolaUI** - Building a personal component library with 40+ production-ready React components.
 - **60-Day Challenge** - Shipping 3 major projects while documenting my journey publicly
 
 ---
