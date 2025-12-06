@@ -128,14 +128,40 @@ Shipping 3 major projects publicly while documenting:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alorik&theme=dark" />
 </div>
 
----
 
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alorik&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+
+</div>
+---
 ## 🌱 Currently Learning
 
-- Advanced TypeScript patterns (Generics, Utility Types, Conditional Types)
-- UI/UX design principles and animation techniques
-- System design and software architecture
-- Performance optimization and Core Web Vitals
+```ts
+const learning = {
+  typescript: [
+    "Generics",
+    "Utility Types",
+    "Conditional Types"
+  ],
+  frontend: [
+    "UI/UX best practices",
+    "Motion design",
+    "Micro-interactions"
+  ],
+  architecture: [
+    "System design",
+    "Scalable APIs",
+    "Clean schema modeling"
+  ],
+  performance: [
+    "Core Web Vitals",
+    "Rendering optimization",
+    "Bundle analysis"
+  ]
+};
 
 ---
 
