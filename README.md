@@ -81,36 +81,41 @@ Shipping 3 major projects publicly while documenting:
 
 ---
 
-### [Portfolio](https://portfolio-delta-six-15.vercel.app) 🌐
-**Personal Portfolio Website**
-- SEO-optimized with enhanced performance
-- Fully responsive UI with smooth animations
-- Modern design with Framer Motion
-- Showcases projects and technical skills
+## 🧩 Featured Projects
 
-**Tech:** Next.js • Tailwind CSS • Framer Motion • React Icons
+<table>
+<tr>
+<td width="50%" style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
 
----
+### 🌐 [Portfolio](https://portfolio-delta-six-15.vercel.app)
+- SEO-optimized performance  
+- Motion design using Framer Motion  
+- Responsive, modern UI  
 
-### [ESTATE](https://github.com/Alorik/ESTATE) 🏠
-**Real Estate Landing Page**
-- Dynamic property listings with pricing details
-- Visual previews and featured properties
-- Enhanced user engagement with interactive components
-- Clean, modern design
+**Tech:** Next.js • TailwindCSS • Framer Motion  
+</td>
+<td width="50%" style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
 
-**Tech:** React • Tailwind CSS
+### 🏠 [ESTATE](https://github.com/Alorik/ESTATE)
+- Dynamic property UI  
+- Minimal aesthetics  
+- Tailwind utility-first design  
 
----
+**Tech:** React • TailwindCSS  
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
 
-### KirolaUI *(In Progress)* 🎨
-**Personal Component Library**
-- 40+ production-ready React/TypeScript components
-- Built with Tailwind CSS and Framer Motion
-- Fully documented with live examples
-- Dark mode support and accessibility-first
+### 🎨 KirolaUI *(In Progress)*
+- 40+ motion-focused components  
+- Accessible & theme-ready  
+- Documentation coming soon  
 
-**Tech:** React • TypeScript • Tailwind CSS • Framer Motion
+**Tech:** React • TailwindCSS • Framer Motion  
+</td>
+</tr>
+</table>
 
 ---
 
@@ -163,7 +168,7 @@ const learning = {
   ]
 };
 
----
+```
 
 ## 📫 Let's Connect
 
