@@ -1,16 +1,46 @@
-# Hey there, I'm Nitin Kirola 👋
-
-## Frontend Developer | Building Production-Ready Web Applications
-
-I'm a Computer Science student at ABES Engineering College with a passion for creating elegant, performant, and user-centric web experiences. Currently focused on mastering Next.js, TypeScript, and modern UI development.
+<h1 align="center">⚡ Hey, I'm Nitin Kirola</h1>
+<p align="center">
+  Frontend Engineer • Building Motion-Rich, Production-Ready Web Experiences
+</p>
 
 ---
 
-## 🚀 What I'm Working On
+## 👨‍💻 About Me
 
--**Social Media App - A full stack socail media app with real time feaures and extensive UI.
-- **KirolaUI** - Building a personal component library with 40+ production-ready React components.
-- **60-Day Challenge** - Shipping 3 major projects while documenting my journey publicly
+const nitin = {
+  role: "Frontend / Full-Stack Developer",
+  location: "Ghaziabad, India",
+  education: "B.Tech – Computer Science Engineering",
+  focus: ["Next.js", "Modern UI", "Real-time Software"],
+  interests: ["Component Architecture", "System Design", "Web Animations"],
+  availability: "Open to frontend roles & internships"
+};
+
+
+🚀 What I’m Building
+
+🔹 Social Media Platform (Next, Prisma, WebSockets)
+
+A real-time full-stack app with:
+	•	Live feed & notifications
+	•	Authentication & protected routes
+	•	Messaging & typing indicators
+	•	Elegant motion UI
+
+🔹 KirolaUI — Component Library
+
+A personal UI system featuring:
+	•	40+ reusable motion components
+	•	Tailwind + Framer Motion + TypeScript
+	•	Dark mode & accessible patterns
+	•	Component documentation + live previews
+
+🔹 60-Day Build Journey
+
+Shipping 3 major projects publicly while documenting:
+	•	UI architecture decisions
+	•	Performance techniques
+	•	Real-world product thinking
 
 ---
 
@@ -88,16 +118,14 @@ I'm a Computer Science student at ABES Engineering College with a passion for cr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alorik&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alorik&theme=dark&hide_border=true" />
 </div>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alorik&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alorik&theme=dark" />
 </div>
-
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alorik&theme=radical"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alorik&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alorik&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alorik&theme=dark" />
 </div>
 
 ---
