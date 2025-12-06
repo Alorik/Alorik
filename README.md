@@ -7,14 +7,19 @@
 
 ## 👨‍💻 About Me
 
-const nitin = {
-  role: "Frontend / Full-Stack Developer",
-  location: "Ghaziabad, India",
-  education: "B.Tech – Computer Science Engineering",
-  focus: ["Next.js", "Modern UI", "Real-time Software"],
-  interests: ["Component Architecture", "System Design", "Web Animations"],
-  availability: "Open to frontend roles & internships"
-};
+<div align="center">
+
+**💼 Role:** Frontend / Full-Stack Developer  
+**📍 Location:** Ghaziabad, India  
+**🎓 B.Tech – Computer Science Engineering**  
+
+**🚀 Focus:** Next.js · TypeScript · Modern UI  
+**🧠 Interests:** Web Animations · System Design  
+**✨ Availability:** Open to frontend roles & internships  
+
+</div>
+
+---
 
 
 🚀 What I’m Building
@@ -68,54 +73,66 @@ Shipping 3 major projects publicly while documenting:
 
 ---
 
-## 🎯 Featured Projects
-
-### [Workflow](https://github.com/Alorik/workflow) 🎯
-**Full-Stack Project Management Platform**
-- Real-time synchronization with Pusher for instant collaboration
-- Interactive analytics dashboard with Recharts
-- Secure Google authentication via NextAuth
-- Optimized API performance (40% faster response times)
-
-**Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Tailwind CSS • Framer Motion
-
----
-
 ## 🧩 Featured Projects
 
-<table>
-<tr>
-<td width="50%" style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
+<div align="center" style="display:flex; flex-direction:column; gap:15px;">
+
+<!-- WORKFLOW -->
+<div style="background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.1); padding:18px; border-radius:12px; width:100%; max-width:650px; text-align:left;">
+
+### 🎯 [Workflow](https://github.com/Alorik/workflow)
+**Full-Stack Project Management Platform**
+- Real-time sync with Pusher
+- Analytics dashboard with charts
+- Google authentication using NextAuth
+- Smooth UI transitions + performance tuning  
+<br/>
+
+**Tech:** Next.js • TypeScript • Prisma • PostgreSQL • TailwindCSS • Framer Motion  
+</div>
+
+<!-- THREADCAST -->
+<div style="background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.1); padding:18px; border-radius:12px; width:100%; max-width:650px; text-align:left;">
+
+### 🧵 [ThreadCast — Collaborative Social Platform](https://github.com/Alorik/threadcast)
+**Full-Stack Social Media Application**
+- Real-time posting & live feed
+- User authentication and protected routes
+- WebSockets for instant updates + notifications
+- Modern UI with motion micro-interactions  
+<br/>
+
+**Tech:** Next.js • Prisma • WebSockets • NextAuth • TailwindCSS • Zod  
+</div>
+
+<!-- PORTFOLIO -->
+<div style="background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.1); padding:18px; border-radius:12px; width:100%; max-width:650px; text-align:left;">
 
 ### 🌐 [Portfolio](https://portfolio-delta-six-15.vercel.app)
-- SEO-optimized performance  
-- Motion design using Framer Motion  
-- Responsive, modern UI  
+**Personal Developer Portfolio**
+- Motion-enhanced hero sections
+- Responsive layout + minimalist design
+- SEO-optimized with metadata and dynamic pages  
+<br/>
 
 **Tech:** Next.js • TailwindCSS • Framer Motion  
-</td>
-<td width="50%" style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
+</div>
 
-### 🏠 [ESTATE](https://github.com/Alorik/ESTATE)
-- Dynamic property UI  
-- Minimal aesthetics  
-- Tailwind utility-first design  
-
-**Tech:** React • TailwindCSS  
-</td>
-</tr>
-<tr>
-<td colspan="2" style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
+<!-- KIROL AUI -->
+<div style="background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.1); padding:18px; border-radius:12px; width:100%; max-width:650px; text-align:left;">
 
 ### 🎨 KirolaUI *(In Progress)*
-- 40+ motion-focused components  
-- Accessible & theme-ready  
-- Documentation coming soon  
+**React Component Library**
+- 40+ motion-first UI components
+- Dark mode + accessibility patterns
+- Framer Motion animation presets  
+<br/>
 
-**Tech:** React • TailwindCSS • Framer Motion  
-</td>
-</tr>
-</table>
+**Tech:** React • TypeScript • TailwindCSS • Framer Motion  
+</div>
+
+</div>
+
 
 ---
 
