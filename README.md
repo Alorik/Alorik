@@ -137,7 +137,6 @@ Shipping 3 major projects publicly while documenting:
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Alorik&theme=dark&hide_border=true" />
