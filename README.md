@@ -74,6 +74,18 @@
 
 ---
 
+<div align="center">
+
+## 🚀 Projects
+
+</div>
+
+1. **Alorik UI [Component Library]** - (http://alorik-ui.vercel.app)
+2. **ThreadCast [Social media platform ]** - (https://github.com/Alorik/threadcast) 
+3. **Telegram Bot Project** — (https://github.com/Alorik/Telegram-notification)
+4. **Workflow Management System** — (https://github.com/Alorik/workflow)  
+
+
 ## 💼 Open to Opportunities
 
 I'm actively seeking **frontend development opportunities** and **internships** where I can contribute to building exceptional user experiences. If you're looking for a passionate developer who loves clean code and beautiful UIs, let's talk!
