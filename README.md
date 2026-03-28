@@ -5,19 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
 
-<div align="center">
-
-**💼 Role:** Frontend / Full-Stack Developer  
-**📍 Location:** Ghaziabad, India  
-**🎓 B.Tech – Computer Science Engineering**  
-
-**🚀 Focus:** Next.js · TypeScript · Modern UI  
-**🧠 Interests:** Web Animations · System Design  
-**✨ Availability:** Open to frontend roles & internships  
-
-</div>
 
 ## 💻 Tech Stack
 
