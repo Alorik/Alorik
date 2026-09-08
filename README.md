@@ -26,10 +26,11 @@
 </div>
 
 1. **Alorik UI [Component Library]** - (http://alorik-ui.vercel.app)
-2. **Portfolio** - (https://portfolio-alorik.vercel.app)
-3. **ThreadCast [Social media platform ]** - (https://github.com/Alorik/threadcast) 
-4. **Telegram Bot Project** — (https://github.com/Alorik/Telegram-notification)
-5. **Workflow Management System** — (https://github.com/Alorik/workflow)  
+2. **Verde[ESG Platform]** - (https://verde-gamma-seven.vercel.app/)
+3. **Portfolio** - (https://portfolio-alorik.vercel.app)
+4. **ThreadCast [Social media platform ]** - (https://github.com/Alorik/threadcast) 
+5. **Telegram Bot Project** — (https://github.com/Alorik/Telegram-notification)
+6. **Workflow Management System** — (https://github.com/Alorik/workflow)  
 
 
 ## 💼 Open to Opportunities
