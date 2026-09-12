@@ -1,8 +1,7 @@
-<h1 align="center">⚡ Hey, I'm Nitin Kirola</h1>
+<h1 align="center">Hey, I'm Nitin Kirola</h1>
 <p align="center">
   Frontend Engineer • Building Motion-Rich, Production-Ready Web Experiences
 </p>
-
 
 ---
 
