@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Nitin Kirola </h1>
 
-<p align="center">
-  Software Engineer building motion-rich, production-ready web experiences with AI.
-</p>
 
-<p align="center">
-  <a href="http://portfolio-alorik.vercel.app/">Portfolio</a> •
-  <a href="http://verde-gamma-seven.vercel.app/">Verde</a> •
-  <a href="http://alorik-ui.vercel.app/">Alorik UI</a>
-</p>
+I build modern web products focused on **great UI, smooth interactions, and real-world functionality** — combining frontend engineering with AI.
+
+
+### Projects
+
+- **Portfolio** — http://portfolio-alorik.vercel.app/
+- **Verde** — http://verde-gamma-seven.vercel.app/
+- **Alorik UI** — http://alorik-ui.vercel.app/
